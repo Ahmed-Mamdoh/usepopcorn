@@ -22,10 +22,6 @@ A movie discovery app powered by the **OMDb API**. Search, browse, and keep trac
 
 
 
-## 🚀 Getting Started
-```bash
-git clone https://github.com/Ahmed-Mamdoh/usepopcorn.git
-cd usepopcorn
-npm install
-npm start
+## 🌐 Live Demo
+[usePopcorn](https://usepopcorn-kohl.vercel.app/)
 
